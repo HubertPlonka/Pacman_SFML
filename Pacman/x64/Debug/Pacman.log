@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,51): warning C4244:         with
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,51): warning C4244:         [
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,51): warning C4244:             T=unsigned int
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,51): warning C4244:         ]
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,31): warning C4244:         with
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,31): warning C4244:         [
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,31): warning C4244:             T=unsigned int
+C:\Users\hubel\Desktop\cpp\solo\Pacman\main.cpp(9,31): warning C4244:         ]
+  Menu.cpp
+  Generowanie kodu...
+  Pacman.vcxproj -> C:\Users\hubel\Desktop\cpp\solo\Pacman\x64\Debug\Pacman.exe
